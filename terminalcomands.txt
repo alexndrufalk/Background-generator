@@ -1,0 +1,10 @@
+ls
+cd
+git status
+git add.
+git commit -m""
+git push
+git pull
+git branch
+git branch name of new branch
+git checkout name of new branch

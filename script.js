@@ -40,7 +40,7 @@ function randomColors() {
         list[0].textContent="";
         list[1].textContent="";
         button.textContent="";
-        button.textContent="Generate new random color";
+        button.textContent="Generate Super random color";
     };
 
     // for (i=0; i<list.length;i++ ) {
