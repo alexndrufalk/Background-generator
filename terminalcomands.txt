@@ -1,5 +1,6 @@
 ls
 cd
+git clone https://github.com/alexandrufalk/Background-generator.git
 git status
 git add.
 git commit -m""
